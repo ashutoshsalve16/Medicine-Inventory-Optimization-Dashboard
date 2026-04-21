@@ -1,0 +1,501 @@
+Transaction_ID,Date,Medicine_Name,Category,Quantity,Unit_Price,Total_Sales,Region,Payment_Method,Stock_Level_After_Sale
+TXN-1393,2023-01-02,Amoxicillin 250mg,Antibiotic,6,12.0,72.0,East,Insurance,369
+TXN-1021,2023-01-02,Gabapentin 300mg,Anticonvulsant,2,14.2,28.4,West,Credit Card,332
+TXN-1264,2023-01-03,Omeprazole 20mg,Antacid,3,10.2,30.6,Central,Insurance,365
+TXN-1215,2023-01-07,Gabapentin 300mg,Anticonvulsant,1,14.2,14.2,West,Cash,270
+TXN-1128,2023-01-09,Paracetamol 500mg,Analgesic,5,2.5,12.5,South,Digital Wallet,321
+TXN-1438,2023-01-10,Levothyroxine 100mcg,Hormone,6,7.9,47.4,South,Digital Wallet,495
+TXN-1445,2023-01-12,Amlodipine 5mg,Calcium Channel Blocker,1,6.8,6.8,North,Credit Card,443
+TXN-1198,2023-01-12,Azithromycin 500mg,Antibiotic,1,18.5,18.5,East,Insurance,263
+TXN-1293,2023-01-14,Hydrochlorothiazide 25mg,Diuretic,2,4.2,8.4,South,Digital Wallet,91
+TXN-1440,2023-01-15,Atorvastatin 20mg,Statins,7,15.0,105.0,East,Digital Wallet,33
+TXN-1191,2023-01-15,Atorvastatin 20mg,Statins,5,15.0,75.0,West,Digital Wallet,237
+TXN-1194,2023-01-16,Lisinopril 10mg,ACE Inhibitor,2,7.3,14.6,Central,Credit Card,64
+TXN-1161,2023-01-16,Pantoprazole 40mg,Antacid,1,12.8,12.8,East,Cash,467
+TXN-1294,2023-01-17,Paracetamol 500mg,Analgesic,10,2.5,25.0,West,Cash,199
+TXN-1158,2023-01-18,Prednisone 10mg,Corticosteroid,3,6.0,18.0,South,Credit Card,304
+TXN-1352,2023-01-18,Amoxicillin 250mg,Antibiotic,2,12.0,24.0,Central,Credit Card,76
+TXN-1467,2023-01-20,Albuterol Inhaler,Bronchodilator,4,25.0,100.0,Central,Digital Wallet,125
+TXN-1060,2023-01-20,Omeprazole 20mg,Antacid,10,10.2,102.0,West,Digital Wallet,279
+TXN-1494,2023-01-22,Lisinopril 10mg,ACE Inhibitor,7,7.3,51.1,South,Cash,121
+TXN-1461,2023-01-24,Pantoprazole 40mg,Antacid,3,12.8,38.4,Central,Insurance,288
+TXN-1347,2023-01-24,Paracetamol 500mg,Analgesic,10,2.5,25.0,East,Insurance,383
+TXN-1116,2023-01-25,Lisinopril 10mg,ACE Inhibitor,4,7.3,29.2,North,Insurance,362
+TXN-1125,2023-01-27,Ibuprofen 400mg,Analgesic,2,5.75,11.5,Central,Insurance,272
+TXN-1442,2023-01-28,Omeprazole 20mg,Antacid,4,10.2,40.8,North,Credit Card,263
+TXN-1184,2023-01-30,Amlodipine 5mg,Calcium Channel Blocker,3,6.8,20.4,South,Insurance,221
+TXN-1121,2023-01-31,Albuterol Inhaler,Bronchodilator,8,25.0,200.0,West,Insurance,60
+TXN-1169,2023-01-31,Sertraline 50mg,Antidepressant,6,11.0,66.0,South,Digital Wallet,60
+TXN-1027,2023-01-31,Amlodipine 5mg,Calcium Channel Blocker,5,6.8,34.0,South,Digital Wallet,44
+TXN-1228,2023-02-02,Gabapentin 300mg,Anticonvulsant,5,14.2,71.0,South,Cash,210
+TXN-1444,2023-02-05,Furosemide 40mg,Diuretic,8,5.5,44.0,East,Insurance,95
+TXN-1017,2023-02-06,Albuterol Inhaler,Bronchodilator,2,25.0,50.0,Central,Cash,224
+TXN-1079,2023-02-06,Omeprazole 20mg,Antacid,2,10.2,20.4,West,Cash,171
+TXN-1491,2023-02-07,Ibuprofen 400mg,Analgesic,1,5.75,5.75,West,Digital Wallet,16
+TXN-1107,2023-02-08,Sertraline 50mg,Antidepressant,10,11.0,110.0,Central,Insurance,209
+TXN-1398,2023-02-09,Ibuprofen 400mg,Analgesic,5,5.75,28.75,East,Cash,407
+TXN-1208,2023-02-10,Sertraline 50mg,Antidepressant,10,11.0,110.0,West,Cash,150
+TXN-1069,2023-02-10,Omeprazole 20mg,Antacid,5,10.2,51.0,South,Digital Wallet,76
+TXN-1065,2023-02-11,Gabapentin 300mg,Anticonvulsant,8,14.2,113.6,West,Cash,11
+TXN-1166,2023-02-12,Furosemide 40mg,Diuretic,1,5.5,5.5,Central,Credit Card,469
+TXN-1402,2023-02-13,Pantoprazole 40mg,Antacid,2,12.8,25.6,Central,Digital Wallet,397
+TXN-1151,2023-02-13,Levothyroxine 100mcg,Hormone,2,7.9,15.8,West,Cash,162
+TXN-1091,2023-02-13,Amoxicillin 250mg,Antibiotic,2,12.0,24.0,South,Insurance,352
+TXN-1238,2023-02-14,Atorvastatin 20mg,Statins,6,15.0,90.0,East,Digital Wallet,492
+TXN-1147,2023-02-15,Amoxicillin 250mg,Antibiotic,6,12.0,72.0,North,Credit Card,450
+TXN-1492,2023-02-15,Atorvastatin 20mg,Statins,6,15.0,90.0,North,Insurance,191
+TXN-1303,2023-02-16,Metformin 500mg,Antidiabetic,10,8.5,85.0,West,Cash,196
+TXN-1490,2023-02-16,Cetirizine 10mg,Antihistamine,5,4.5,22.5,South,Credit Card,205
+TXN-1210,2023-02-17,Sertraline 50mg,Antidepressant,7,11.0,77.0,East,Insurance,13
+TXN-1141,2023-02-17,Gabapentin 300mg,Anticonvulsant,9,14.2,127.8,West,Digital Wallet,59
+TXN-1056,2023-02-17,Prednisone 10mg,Corticosteroid,10,6.0,60.0,West,Digital Wallet,14
+TXN-1406,2023-02-17,Pantoprazole 40mg,Antacid,5,12.8,64.0,East,Insurance,223
+TXN-1364,2023-02-18,Gabapentin 300mg,Anticonvulsant,7,14.2,99.4,East,Digital Wallet,302
+TXN-1386,2023-02-19,Paracetamol 500mg,Analgesic,10,2.5,25.0,Central,Insurance,467
+TXN-1335,2023-02-21,Losartan 50mg,Antihypertensive,1,9.4,9.4,West,Cash,179
+TXN-1472,2023-02-21,Amoxicillin 250mg,Antibiotic,7,12.0,84.0,North,Insurance,212
+TXN-1354,2023-02-22,Fluoxetine 20mg,Antidepressant,10,13.5,135.0,West,Credit Card,492
+TXN-1465,2023-02-22,Albuterol Inhaler,Bronchodilator,3,25.0,75.0,North,Insurance,406
+TXN-1273,2023-02-23,Losartan 50mg,Antihypertensive,1,9.4,9.4,North,Cash,125
+TXN-1366,2023-02-23,Prednisone 10mg,Corticosteroid,2,6.0,12.0,South,Insurance,331
+TXN-1439,2023-02-23,Atorvastatin 20mg,Statins,9,15.0,135.0,West,Digital Wallet,469
+TXN-1466,2023-02-24,Levothyroxine 100mcg,Hormone,4,7.9,31.6,North,Digital Wallet,19
+TXN-1018,2023-02-25,Lisinopril 10mg,ACE Inhibitor,10,7.3,73.0,Central,Insurance,81
+TXN-1339,2023-02-26,Amoxicillin 250mg,Antibiotic,1,12.0,12.0,South,Insurance,230
+TXN-1035,2023-02-26,Pantoprazole 40mg,Antacid,3,12.8,38.4,East,Insurance,202
+TXN-1139,2023-03-01,Gabapentin 300mg,Anticonvulsant,3,14.2,42.6,Central,Cash,144
+TXN-1192,2023-03-02,Ibuprofen 400mg,Analgesic,1,5.75,5.75,Central,Insurance,436
+TXN-1344,2023-03-03,Albuterol Inhaler,Bronchodilator,4,25.0,100.0,East,Insurance,474
+TXN-1405,2023-03-03,Azithromycin 500mg,Antibiotic,1,18.5,18.5,North,Digital Wallet,373
+TXN-1157,2023-03-04,Ibuprofen 400mg,Analgesic,9,5.75,51.75,North,Credit Card,137
+TXN-1459,2023-03-05,Prednisone 10mg,Corticosteroid,8,6.0,48.0,East,Digital Wallet,98
+TXN-1204,2023-03-06,Amoxicillin 250mg,Antibiotic,8,12.0,96.0,West,Credit Card,443
+TXN-1375,2023-03-10,Gabapentin 300mg,Anticonvulsant,4,14.2,56.8,Central,Credit Card,466
+TXN-1378,2023-03-10,Sertraline 50mg,Antidepressant,1,11.0,11.0,West,Cash,135
+TXN-1140,2023-03-10,Paracetamol 500mg,Analgesic,8,2.5,20.0,Central,Credit Card,444
+TXN-1041,2023-03-11,Amlodipine 5mg,Calcium Channel Blocker,7,6.8,47.6,East,Digital Wallet,148
+TXN-1220,2023-03-13,Cetirizine 10mg,Antihistamine,1,4.5,4.5,West,Insurance,286
+TXN-1245,2023-03-15,Gabapentin 300mg,Anticonvulsant,5,14.2,71.0,South,Insurance,397
+TXN-1262,2023-03-16,Albuterol Inhaler,Bronchodilator,10,25.0,250.0,West,Credit Card,35
+TXN-1441,2023-03-17,Sertraline 50mg,Antidepressant,10,11.0,110.0,West,Digital Wallet,133
+TXN-1142,2023-03-17,Paracetamol 500mg,Analgesic,9,2.5,22.5,North,Credit Card,148
+TXN-1279,2023-03-18,Lisinopril 10mg,ACE Inhibitor,4,7.3,29.2,North,Credit Card,312
+TXN-1052,2023-03-19,Hydrochlorothiazide 25mg,Diuretic,7,4.2,29.4,West,Digital Wallet,471
+TXN-1009,2023-03-20,Atorvastatin 20mg,Statins,8,15.0,120.0,Central,Credit Card,332
+TXN-1373,2023-03-20,Levothyroxine 100mcg,Hormone,6,7.9,47.4,East,Insurance,410
+TXN-1053,2023-03-21,Cetirizine 10mg,Antihistamine,2,4.5,9.0,West,Insurance,307
+TXN-1285,2023-03-22,Fluoxetine 20mg,Antidepressant,1,13.5,13.5,South,Cash,135
+TXN-1267,2023-03-22,Ibuprofen 400mg,Analgesic,8,5.75,46.0,West,Insurance,10
+TXN-1159,2023-03-23,Amoxicillin 250mg,Antibiotic,7,12.0,84.0,West,Cash,419
+TXN-1011,2023-03-23,Cetirizine 10mg,Antihistamine,1,4.5,4.5,East,Cash,467
+TXN-1261,2023-03-24,Metformin 500mg,Antidiabetic,10,8.5,85.0,South,Cash,127
+TXN-1430,2023-03-24,Losartan 50mg,Antihypertensive,10,9.4,94.0,South,Digital Wallet,336
+TXN-1324,2023-03-25,Fluoxetine 20mg,Antidepressant,2,13.5,27.0,West,Cash,181
+TXN-1086,2023-03-27,Paracetamol 500mg,Analgesic,6,2.5,15.0,West,Digital Wallet,283
+TXN-1248,2023-03-27,Paracetamol 500mg,Analgesic,5,2.5,12.5,East,Digital Wallet,197
+TXN-1382,2023-03-27,Atorvastatin 20mg,Statins,9,15.0,135.0,East,Credit Card,122
+TXN-1164,2023-03-29,Amlodipine 5mg,Calcium Channel Blocker,2,6.8,13.6,West,Insurance,159
+TXN-1237,2023-03-30,Paracetamol 500mg,Analgesic,3,2.5,7.5,Central,Credit Card,284
+TXN-1152,2023-04-01,Losartan 50mg,Antihypertensive,6,9.4,56.4,Central,Digital Wallet,466
+TXN-1219,2023-04-02,Paracetamol 500mg,Analgesic,6,2.5,15.0,West,Cash,383
+TXN-1229,2023-04-02,Hydrochlorothiazide 25mg,Diuretic,8,4.2,33.6,West,Digital Wallet,264
+TXN-1259,2023-04-04,Prednisone 10mg,Corticosteroid,4,6.0,24.0,West,Insurance,205
+TXN-1314,2023-04-05,Hydrochlorothiazide 25mg,Diuretic,1,4.2,4.2,Central,Credit Card,340
+TXN-1426,2023-04-05,Pantoprazole 40mg,Antacid,4,12.8,51.2,North,Digital Wallet,322
+TXN-1385,2023-04-06,Sertraline 50mg,Antidepressant,10,11.0,110.0,North,Digital Wallet,233
+TXN-1003,2023-04-06,Metformin 500mg,Antidiabetic,8,8.5,68.0,North,Credit Card,45
+TXN-1483,2023-04-08,Paracetamol 500mg,Analgesic,7,2.5,17.5,North,Insurance,281
+TXN-1363,2023-04-08,Pantoprazole 40mg,Antacid,4,12.8,51.2,East,Credit Card,438
+TXN-1189,2023-04-08,Gabapentin 300mg,Anticonvulsant,6,14.2,85.2,North,Digital Wallet,146
+TXN-1454,2023-04-10,Pantoprazole 40mg,Antacid,3,12.8,38.4,North,Insurance,86
+TXN-1353,2023-04-11,Azithromycin 500mg,Antibiotic,4,18.5,74.0,South,Digital Wallet,77
+TXN-1315,2023-04-12,Amoxicillin 250mg,Antibiotic,3,12.0,36.0,West,Insurance,412
+TXN-1443,2023-04-12,Azithromycin 500mg,Antibiotic,5,18.5,92.5,East,Cash,140
+TXN-1216,2023-04-13,Cetirizine 10mg,Antihistamine,2,4.5,9.0,South,Digital Wallet,13
+TXN-1070,2023-04-13,Gabapentin 300mg,Anticonvulsant,6,14.2,85.2,West,Insurance,16
+TXN-1489,2023-04-13,Furosemide 40mg,Diuretic,7,5.5,38.5,West,Digital Wallet,258
+TXN-1234,2023-04-14,Furosemide 40mg,Diuretic,5,5.5,27.5,West,Insurance,312
+TXN-1102,2023-04-16,Sertraline 50mg,Antidepressant,2,11.0,22.0,West,Cash,181
+TXN-1174,2023-04-17,Omeprazole 20mg,Antacid,6,10.2,61.2,North,Digital Wallet,78
+TXN-1227,2023-04-17,Azithromycin 500mg,Antibiotic,2,18.5,37.0,South,Digital Wallet,395
+TXN-1138,2023-04-19,Ibuprofen 400mg,Analgesic,2,5.75,11.5,Central,Digital Wallet,128
+TXN-1468,2023-04-19,Fluoxetine 20mg,Antidepressant,10,13.5,135.0,North,Insurance,420
+TXN-1212,2023-04-21,Albuterol Inhaler,Bronchodilator,4,25.0,100.0,North,Cash,375
+TXN-1094,2023-04-22,Pantoprazole 40mg,Antacid,1,12.8,12.8,West,Cash,499
+TXN-1006,2023-04-23,Paracetamol 500mg,Analgesic,6,2.5,15.0,North,Credit Card,458
+TXN-1071,2023-04-23,Hydrochlorothiazide 25mg,Diuretic,4,4.2,16.8,Central,Digital Wallet,399
+TXN-1005,2023-04-26,Pantoprazole 40mg,Antacid,7,12.8,89.6,South,Insurance,289
+TXN-1392,2023-04-26,Azithromycin 500mg,Antibiotic,7,18.5,129.5,Central,Credit Card,187
+TXN-1302,2023-04-26,Levothyroxine 100mcg,Hormone,4,7.9,31.6,South,Digital Wallet,186
+TXN-1202,2023-04-26,Ibuprofen 400mg,Analgesic,9,5.75,51.75,Central,Digital Wallet,330
+TXN-1365,2023-04-27,Prednisone 10mg,Corticosteroid,1,6.0,6.0,North,Credit Card,15
+TXN-1098,2023-04-27,Hydrochlorothiazide 25mg,Diuretic,4,4.2,16.8,Central,Cash,446
+TXN-1380,2023-04-27,Paracetamol 500mg,Analgesic,9,2.5,22.5,West,Credit Card,141
+TXN-1182,2023-04-28,Levothyroxine 100mcg,Hormone,9,7.9,71.1,East,Cash,307
+TXN-1092,2023-04-28,Losartan 50mg,Antihypertensive,10,9.4,94.0,East,Insurance,169
+TXN-1223,2023-04-28,Paracetamol 500mg,Analgesic,2,2.5,5.0,Central,Insurance,326
+TXN-1345,2023-04-30,Furosemide 40mg,Diuretic,6,5.5,33.0,South,Digital Wallet,62
+TXN-1073,2023-04-30,Sertraline 50mg,Antidepressant,4,11.0,44.0,Central,Credit Card,373
+TXN-1388,2023-05-03,Pantoprazole 40mg,Antacid,2,12.8,25.6,East,Insurance,99
+TXN-1484,2023-05-03,Omeprazole 20mg,Antacid,8,10.2,81.6,West,Cash,288
+TXN-1074,2023-05-04,Gabapentin 300mg,Anticonvulsant,7,14.2,99.4,East,Insurance,450
+TXN-1486,2023-05-06,Amlodipine 5mg,Calcium Channel Blocker,3,6.8,20.4,East,Cash,92
+TXN-1346,2023-05-07,Lisinopril 10mg,ACE Inhibitor,7,7.3,51.1,West,Insurance,292
+TXN-1013,2023-05-07,Amlodipine 5mg,Calcium Channel Blocker,8,6.8,54.4,South,Insurance,211
+TXN-1475,2023-05-08,Furosemide 40mg,Diuretic,8,5.5,44.0,Central,Cash,336
+TXN-1083,2023-05-10,Atorvastatin 20mg,Statins,3,15.0,45.0,East,Credit Card,174
+TXN-1498,2023-05-12,Atorvastatin 20mg,Statins,1,15.0,15.0,West,Insurance,262
+TXN-1367,2023-05-14,Amoxicillin 250mg,Antibiotic,1,12.0,12.0,South,Credit Card,125
+TXN-1310,2023-05-15,Atorvastatin 20mg,Statins,6,15.0,90.0,East,Cash,131
+TXN-1265,2023-05-16,Levothyroxine 100mcg,Hormone,4,7.9,31.6,South,Digital Wallet,100
+TXN-1325,2023-05-16,Omeprazole 20mg,Antacid,8,10.2,81.6,West,Credit Card,41
+TXN-1410,2023-05-16,Prednisone 10mg,Corticosteroid,8,6.0,48.0,West,Credit Card,407
+TXN-1154,2023-05-19,Amoxicillin 250mg,Antibiotic,1,12.0,12.0,East,Credit Card,16
+TXN-1400,2023-05-20,Ibuprofen 400mg,Analgesic,9,5.75,51.75,North,Digital Wallet,274
+TXN-1458,2023-05-21,Albuterol Inhaler,Bronchodilator,10,25.0,250.0,East,Insurance,26
+TXN-1334,2023-05-22,Ibuprofen 400mg,Analgesic,3,5.75,17.25,South,Credit Card,84
+TXN-1427,2023-05-22,Furosemide 40mg,Diuretic,1,5.5,5.5,East,Insurance,395
+TXN-1496,2023-05-23,Prednisone 10mg,Corticosteroid,5,6.0,30.0,Central,Insurance,181
+TXN-1187,2023-05-24,Paracetamol 500mg,Analgesic,10,2.5,25.0,South,Credit Card,495
+TXN-1004,2023-05-24,Cetirizine 10mg,Antihistamine,5,4.5,22.5,South,Cash,453
+TXN-1304,2023-05-24,Gabapentin 300mg,Anticonvulsant,9,14.2,127.8,Central,Insurance,288
+TXN-1481,2023-05-25,Hydrochlorothiazide 25mg,Diuretic,9,4.2,37.8,North,Credit Card,291
+TXN-1077,2023-05-25,Atorvastatin 20mg,Statins,2,15.0,30.0,East,Credit Card,495
+TXN-1066,2023-05-25,Amlodipine 5mg,Calcium Channel Blocker,10,6.8,68.0,Central,Credit Card,241
+TXN-1269,2023-05-28,Omeprazole 20mg,Antacid,5,10.2,51.0,South,Cash,189
+TXN-1127,2023-05-28,Gabapentin 300mg,Anticonvulsant,2,14.2,28.4,East,Insurance,451
+TXN-1168,2023-05-30,Losartan 50mg,Antihypertensive,4,9.4,37.6,Central,Cash,58
+TXN-1413,2023-05-30,Furosemide 40mg,Diuretic,7,5.5,38.5,South,Credit Card,312
+TXN-1046,2023-06-01,Prednisone 10mg,Corticosteroid,7,6.0,42.0,Central,Insurance,322
+TXN-1474,2023-06-04,Losartan 50mg,Antihypertensive,8,9.4,75.2,West,Insurance,477
+TXN-1288,2023-06-04,Prednisone 10mg,Corticosteroid,2,6.0,12.0,South,Insurance,99
+TXN-1360,2023-06-04,Levothyroxine 100mcg,Hormone,2,7.9,15.8,South,Credit Card,186
+TXN-1381,2023-06-05,Paracetamol 500mg,Analgesic,9,2.5,22.5,East,Insurance,460
+TXN-1451,2023-06-05,Pantoprazole 40mg,Antacid,5,12.8,64.0,North,Credit Card,146
+TXN-1022,2023-06-06,Pantoprazole 40mg,Antacid,5,12.8,64.0,Central,Cash,273
+TXN-1040,2023-06-07,Lisinopril 10mg,ACE Inhibitor,10,7.3,73.0,Central,Credit Card,442
+TXN-1048,2023-06-08,Furosemide 40mg,Diuretic,8,5.5,44.0,Central,Insurance,117
+TXN-1401,2023-06-08,Paracetamol 500mg,Analgesic,10,2.5,25.0,East,Insurance,84
+TXN-1118,2023-06-09,Gabapentin 300mg,Anticonvulsant,10,14.2,142.0,East,Digital Wallet,269
+TXN-1242,2023-06-09,Lisinopril 10mg,ACE Inhibitor,10,7.3,73.0,West,Digital Wallet,254
+TXN-1412,2023-06-10,Paracetamol 500mg,Analgesic,6,2.5,15.0,West,Cash,190
+TXN-1137,2023-06-10,Gabapentin 300mg,Anticonvulsant,6,14.2,85.2,East,Credit Card,458
+TXN-1254,2023-06-11,Azithromycin 500mg,Antibiotic,3,18.5,55.5,North,Insurance,144
+TXN-1016,2023-06-12,Omeprazole 20mg,Antacid,9,10.2,91.8,South,Insurance,121
+TXN-1478,2023-06-13,Cetirizine 10mg,Antihistamine,2,4.5,9.0,South,Cash,330
+TXN-1243,2023-06-13,Azithromycin 500mg,Antibiotic,7,18.5,129.5,North,Credit Card,316
+TXN-1318,2023-06-13,Atorvastatin 20mg,Statins,4,15.0,60.0,North,Credit Card,322
+TXN-1134,2023-06-14,Amlodipine 5mg,Calcium Channel Blocker,6,6.8,40.8,East,Cash,115
+TXN-1197,2023-06-16,Azithromycin 500mg,Antibiotic,5,18.5,92.5,Central,Credit Card,98
+TXN-1485,2023-06-16,Levothyroxine 100mcg,Hormone,3,7.9,23.7,South,Cash,349
+TXN-1224,2023-06-20,Ibuprofen 400mg,Analgesic,3,5.75,17.25,South,Insurance,464
+TXN-1274,2023-06-22,Albuterol Inhaler,Bronchodilator,5,25.0,125.0,South,Credit Card,234
+TXN-1289,2023-06-23,Pantoprazole 40mg,Antacid,9,12.8,115.2,North,Digital Wallet,493
+TXN-1063,2023-06-24,Albuterol Inhaler,Bronchodilator,1,25.0,25.0,West,Credit Card,420
+TXN-1298,2023-06-24,Paracetamol 500mg,Analgesic,9,2.5,22.5,South,Cash,66
+TXN-1030,2023-06-25,Hydrochlorothiazide 25mg,Diuretic,3,4.2,12.6,East,Insurance,333
+TXN-1148,2023-06-26,Furosemide 40mg,Diuretic,5,5.5,27.5,West,Insurance,473
+TXN-1463,2023-06-26,Fluoxetine 20mg,Antidepressant,6,13.5,81.0,South,Credit Card,33
+TXN-1272,2023-06-26,Cetirizine 10mg,Antihistamine,1,4.5,4.5,Central,Insurance,74
+TXN-1155,2023-06-27,Azithromycin 500mg,Antibiotic,4,18.5,74.0,Central,Cash,362
+TXN-1488,2023-06-28,Sertraline 50mg,Antidepressant,2,11.0,22.0,South,Insurance,237
+TXN-1239,2023-07-01,Amoxicillin 250mg,Antibiotic,1,12.0,12.0,North,Credit Card,354
+TXN-1428,2023-07-01,Azithromycin 500mg,Antibiotic,4,18.5,74.0,East,Digital Wallet,377
+TXN-1291,2023-07-01,Atorvastatin 20mg,Statins,9,15.0,135.0,Central,Insurance,51
+TXN-1203,2023-07-06,Fluoxetine 20mg,Antidepressant,3,13.5,40.5,East,Digital Wallet,268
+TXN-1420,2023-07-06,Gabapentin 300mg,Anticonvulsant,8,14.2,113.6,North,Credit Card,209
+TXN-1106,2023-07-07,Lisinopril 10mg,ACE Inhibitor,2,7.3,14.6,West,Credit Card,233
+TXN-1176,2023-07-08,Losartan 50mg,Antihypertensive,3,9.4,28.2,West,Cash,36
+TXN-1479,2023-07-11,Hydrochlorothiazide 25mg,Diuretic,3,4.2,12.6,Central,Digital Wallet,210
+TXN-1185,2023-07-11,Furosemide 40mg,Diuretic,6,5.5,33.0,West,Insurance,345
+TXN-1145,2023-07-11,Losartan 50mg,Antihypertensive,9,9.4,84.6,Central,Credit Card,276
+TXN-1455,2023-07-12,Lisinopril 10mg,ACE Inhibitor,2,7.3,14.6,North,Digital Wallet,37
+TXN-1422,2023-07-13,Omeprazole 20mg,Antacid,10,10.2,102.0,South,Digital Wallet,153
+TXN-1038,2023-07-13,Hydrochlorothiazide 25mg,Diuretic,10,4.2,42.0,West,Digital Wallet,353
+TXN-1311,2023-07-13,Paracetamol 500mg,Analgesic,4,2.5,10.0,North,Digital Wallet,470
+TXN-1075,2023-07-14,Albuterol Inhaler,Bronchodilator,5,25.0,125.0,North,Credit Card,469
+TXN-1469,2023-07-16,Metformin 500mg,Antidiabetic,2,8.5,17.0,West,Insurance,205
+TXN-1286,2023-07-16,Levothyroxine 100mcg,Hormone,1,7.9,7.9,West,Digital Wallet,16
+TXN-1251,2023-07-19,Paracetamol 500mg,Analgesic,4,2.5,10.0,West,Credit Card,90
+TXN-1054,2023-07-20,Pantoprazole 40mg,Antacid,7,12.8,89.6,West,Credit Card,90
+TXN-1076,2023-07-21,Albuterol Inhaler,Bronchodilator,4,25.0,100.0,East,Digital Wallet,393
+TXN-1320,2023-07-23,Amlodipine 5mg,Calcium Channel Blocker,3,6.8,20.4,South,Insurance,88
+TXN-1414,2023-07-23,Gabapentin 300mg,Anticonvulsant,1,14.2,14.2,Central,Cash,240
+TXN-1162,2023-07-24,Cetirizine 10mg,Antihistamine,4,4.5,18.0,East,Credit Card,390
+TXN-1433,2023-07-25,Cetirizine 10mg,Antihistamine,1,4.5,4.5,Central,Insurance,247
+TXN-1113,2023-07-26,Fluoxetine 20mg,Antidepressant,1,13.5,13.5,West,Digital Wallet,267
+TXN-1351,2023-07-26,Ibuprofen 400mg,Analgesic,4,5.75,23.0,Central,Digital Wallet,370
+TXN-1020,2023-07-26,Losartan 50mg,Antihypertensive,10,9.4,94.0,West,Cash,73
+TXN-1124,2023-07-27,Gabapentin 300mg,Anticonvulsant,1,14.2,14.2,North,Digital Wallet,274
+TXN-1383,2023-07-27,Lisinopril 10mg,ACE Inhibitor,1,7.3,7.3,East,Credit Card,424
+TXN-1425,2023-07-29,Omeprazole 20mg,Antacid,3,10.2,30.6,North,Cash,321
+TXN-1000,2023-08-01,Azithromycin 500mg,Antibiotic,1,18.5,18.5,West,Cash,273
+TXN-1039,2023-08-01,Cetirizine 10mg,Antihistamine,1,4.5,4.5,South,Credit Card,463
+TXN-1104,2023-08-01,Metformin 500mg,Antidiabetic,6,8.5,51.0,Central,Insurance,396
+TXN-1062,2023-08-03,Losartan 50mg,Antihypertensive,6,9.4,56.4,West,Credit Card,438
+TXN-1122,2023-08-03,Lisinopril 10mg,ACE Inhibitor,7,7.3,51.1,South,Insurance,74
+TXN-1131,2023-08-04,Ibuprofen 400mg,Analgesic,5,5.75,28.75,Central,Insurance,436
+TXN-1105,2023-08-06,Cetirizine 10mg,Antihistamine,9,4.5,40.5,South,Cash,399
+TXN-1108,2023-08-06,Furosemide 40mg,Diuretic,8,5.5,44.0,Central,Insurance,416
+TXN-1436,2023-08-07,Prednisone 10mg,Corticosteroid,1,6.0,6.0,East,Digital Wallet,459
+TXN-1110,2023-08-08,Fluoxetine 20mg,Antidepressant,2,13.5,27.0,East,Credit Card,327
+TXN-1172,2023-08-08,Pantoprazole 40mg,Antacid,3,12.8,38.4,Central,Cash,327
+TXN-1023,2023-08-09,Fluoxetine 20mg,Antidepressant,1,13.5,13.5,North,Cash,21
+TXN-1357,2023-08-10,Sertraline 50mg,Antidepressant,8,11.0,88.0,Central,Credit Card,355
+TXN-1111,2023-08-12,Gabapentin 300mg,Anticonvulsant,9,14.2,127.8,North,Insurance,198
+TXN-1136,2023-08-12,Azithromycin 500mg,Antibiotic,1,18.5,18.5,Central,Insurance,395
+TXN-1349,2023-08-15,Ibuprofen 400mg,Analgesic,9,5.75,51.75,West,Credit Card,144
+TXN-1244,2023-08-15,Fluoxetine 20mg,Antidepressant,7,13.5,94.5,East,Cash,191
+TXN-1217,2023-08-16,Azithromycin 500mg,Antibiotic,6,18.5,111.0,South,Credit Card,236
+TXN-1411,2023-08-17,Metformin 500mg,Antidiabetic,3,8.5,25.5,South,Insurance,10
+TXN-1453,2023-08-17,Omeprazole 20mg,Antacid,2,10.2,20.4,West,Cash,295
+TXN-1082,2023-08-19,Sertraline 50mg,Antidepressant,8,11.0,88.0,North,Cash,37
+TXN-1338,2023-08-20,Metformin 500mg,Antidiabetic,5,8.5,42.5,Central,Credit Card,452
+TXN-1313,2023-08-21,Gabapentin 300mg,Anticonvulsant,3,14.2,42.6,North,Insurance,388
+TXN-1377,2023-08-22,Amlodipine 5mg,Calcium Channel Blocker,7,6.8,47.6,East,Insurance,160
+TXN-1256,2023-08-22,Lisinopril 10mg,ACE Inhibitor,4,7.3,29.2,Central,Insurance,351
+TXN-1317,2023-08-26,Albuterol Inhaler,Bronchodilator,8,25.0,200.0,Central,Insurance,468
+TXN-1327,2023-08-28,Gabapentin 300mg,Anticonvulsant,4,14.2,56.8,North,Digital Wallet,89
+TXN-1361,2023-08-29,Sertraline 50mg,Antidepressant,1,11.0,11.0,West,Digital Wallet,219
+TXN-1099,2023-08-29,Lisinopril 10mg,ACE Inhibitor,5,7.3,36.5,East,Cash,442
+TXN-1024,2023-08-30,Albuterol Inhaler,Bronchodilator,1,25.0,25.0,South,Cash,180
+TXN-1213,2023-08-30,Paracetamol 500mg,Analgesic,6,2.5,15.0,East,Cash,12
+TXN-1332,2023-08-30,Atorvastatin 20mg,Statins,6,15.0,90.0,West,Insurance,265
+TXN-1389,2023-09-02,Losartan 50mg,Antihypertensive,4,9.4,37.6,Central,Digital Wallet,474
+TXN-1047,2023-09-03,Omeprazole 20mg,Antacid,1,10.2,10.2,North,Digital Wallet,251
+TXN-1051,2023-09-04,Hydrochlorothiazide 25mg,Diuretic,10,4.2,42.0,South,Cash,328
+TXN-1055,2023-09-06,Omeprazole 20mg,Antacid,7,10.2,71.4,North,Digital Wallet,362
+TXN-1165,2023-09-06,Lisinopril 10mg,ACE Inhibitor,1,7.3,7.3,South,Cash,461
+TXN-1299,2023-09-07,Furosemide 40mg,Diuretic,2,5.5,11.0,South,Digital Wallet,240
+TXN-1300,2023-09-08,Gabapentin 300mg,Anticonvulsant,8,14.2,113.6,West,Credit Card,264
+TXN-1087,2023-09-08,Prednisone 10mg,Corticosteroid,7,6.0,42.0,North,Credit Card,266
+TXN-1090,2023-09-09,Gabapentin 300mg,Anticonvulsant,4,14.2,56.8,North,Credit Card,20
+TXN-1283,2023-09-09,Fluoxetine 20mg,Antidepressant,8,13.5,108.0,South,Digital Wallet,306
+TXN-1301,2023-09-09,Metformin 500mg,Antidiabetic,7,8.5,59.5,East,Credit Card,82
+TXN-1010,2023-09-09,Paracetamol 500mg,Analgesic,5,2.5,12.5,South,Cash,116
+TXN-1249,2023-09-13,Amlodipine 5mg,Calcium Channel Blocker,2,6.8,13.6,North,Cash,217
+TXN-1031,2023-09-14,Amoxicillin 250mg,Antibiotic,4,12.0,48.0,South,Cash,369
+TXN-1446,2023-09-14,Omeprazole 20mg,Antacid,6,10.2,61.2,North,Digital Wallet,470
+TXN-1036,2023-09-18,Hydrochlorothiazide 25mg,Diuretic,8,4.2,33.6,West,Digital Wallet,268
+TXN-1143,2023-09-18,Omeprazole 20mg,Antacid,2,10.2,20.4,South,Cash,218
+TXN-1309,2023-09-19,Atorvastatin 20mg,Statins,1,15.0,15.0,North,Insurance,72
+TXN-1037,2023-09-20,Losartan 50mg,Antihypertensive,5,9.4,47.0,Central,Insurance,177
+TXN-1230,2023-09-21,Fluoxetine 20mg,Antidepressant,5,13.5,67.5,West,Digital Wallet,437
+TXN-1396,2023-09-22,Atorvastatin 20mg,Statins,9,15.0,135.0,North,Cash,55
+TXN-1209,2023-09-23,Gabapentin 300mg,Anticonvulsant,3,14.2,42.6,West,Insurance,17
+TXN-1190,2023-09-23,Metformin 500mg,Antidiabetic,6,8.5,51.0,West,Insurance,354
+TXN-1089,2023-09-25,Atorvastatin 20mg,Statins,6,15.0,90.0,North,Credit Card,484
+TXN-1449,2023-09-25,Azithromycin 500mg,Antibiotic,2,18.5,37.0,South,Insurance,465
+TXN-1186,2023-09-26,Cetirizine 10mg,Antihistamine,10,4.5,45.0,South,Digital Wallet,177
+TXN-1183,2023-09-26,Gabapentin 300mg,Anticonvulsant,2,14.2,28.4,East,Digital Wallet,296
+TXN-1097,2023-09-29,Amlodipine 5mg,Calcium Channel Blocker,6,6.8,40.8,East,Insurance,470
+TXN-1112,2023-09-29,Losartan 50mg,Antihypertensive,6,9.4,56.4,West,Cash,95
+TXN-1255,2023-10-01,Metformin 500mg,Antidiabetic,5,8.5,42.5,North,Credit Card,417
+TXN-1149,2023-10-01,Paracetamol 500mg,Analgesic,6,2.5,15.0,East,Digital Wallet,86
+TXN-1015,2023-10-01,Losartan 50mg,Antihypertensive,1,9.4,9.4,North,Credit Card,422
+TXN-1257,2023-10-01,Lisinopril 10mg,ACE Inhibitor,6,7.3,43.8,South,Digital Wallet,161
+TXN-1246,2023-10-03,Amoxicillin 250mg,Antibiotic,7,12.0,84.0,Central,Digital Wallet,177
+TXN-1007,2023-10-03,Omeprazole 20mg,Antacid,7,10.2,71.4,West,Cash,262
+TXN-1225,2023-10-06,Atorvastatin 20mg,Statins,2,15.0,30.0,East,Digital Wallet,285
+TXN-1218,2023-10-06,Amlodipine 5mg,Calcium Channel Blocker,9,6.8,61.2,North,Credit Card,489
+TXN-1080,2023-10-07,Pantoprazole 40mg,Antacid,10,12.8,128.0,South,Digital Wallet,309
+TXN-1115,2023-10-08,Metformin 500mg,Antidiabetic,4,8.5,34.0,East,Cash,213
+TXN-1045,2023-10-08,Amlodipine 5mg,Calcium Channel Blocker,6,6.8,40.8,Central,Cash,467
+TXN-1181,2023-10-11,Gabapentin 300mg,Anticonvulsant,10,14.2,142.0,South,Credit Card,183
+TXN-1403,2023-10-11,Pantoprazole 40mg,Antacid,1,12.8,12.8,Central,Digital Wallet,483
+TXN-1290,2023-10-11,Amlodipine 5mg,Calcium Channel Blocker,4,6.8,27.2,South,Cash,188
+TXN-1476,2023-10-15,Prednisone 10mg,Corticosteroid,3,6.0,18.0,Central,Cash,98
+TXN-1395,2023-10-15,Levothyroxine 100mcg,Hormone,5,7.9,39.5,North,Insurance,111
+TXN-1409,2023-10-17,Cetirizine 10mg,Antihistamine,3,4.5,13.5,Central,Cash,94
+TXN-1226,2023-10-17,Losartan 50mg,Antihypertensive,1,9.4,9.4,West,Credit Card,22
+TXN-1447,2023-10-18,Amoxicillin 250mg,Antibiotic,4,12.0,48.0,East,Credit Card,422
+TXN-1132,2023-10-19,Azithromycin 500mg,Antibiotic,5,18.5,92.5,Central,Cash,163
+TXN-1179,2023-10-19,Metformin 500mg,Antidiabetic,2,8.5,17.0,North,Cash,403
+TXN-1120,2023-10-20,Amlodipine 5mg,Calcium Channel Blocker,9,6.8,61.2,South,Credit Card,310
+TXN-1374,2023-10-20,Prednisone 10mg,Corticosteroid,5,6.0,30.0,South,Credit Card,36
+TXN-1424,2023-10-23,Omeprazole 20mg,Antacid,9,10.2,91.8,West,Cash,437
+TXN-1146,2023-10-23,Cetirizine 10mg,Antihistamine,1,4.5,4.5,North,Cash,195
+TXN-1201,2023-10-24,Hydrochlorothiazide 25mg,Diuretic,3,4.2,12.6,West,Cash,112
+TXN-1043,2023-10-24,Atorvastatin 20mg,Statins,4,15.0,60.0,West,Cash,323
+TXN-1042,2023-10-26,Lisinopril 10mg,ACE Inhibitor,1,7.3,7.3,South,Credit Card,469
+TXN-1059,2023-10-27,Pantoprazole 40mg,Antacid,8,12.8,102.4,North,Cash,278
+TXN-1214,2023-10-28,Ibuprofen 400mg,Analgesic,7,5.75,40.25,East,Cash,149
+TXN-1452,2023-10-28,Paracetamol 500mg,Analgesic,6,2.5,15.0,West,Credit Card,395
+TXN-1173,2023-10-28,Gabapentin 300mg,Anticonvulsant,7,14.2,99.4,South,Digital Wallet,185
+TXN-1437,2023-10-29,Furosemide 40mg,Diuretic,7,5.5,38.5,Central,Credit Card,486
+TXN-1034,2023-10-31,Metformin 500mg,Antidiabetic,4,8.5,34.0,Central,Insurance,479
+TXN-1337,2023-10-31,Hydrochlorothiazide 25mg,Diuretic,4,4.2,16.8,East,Credit Card,70
+TXN-1321,2023-11-01,Sertraline 50mg,Antidepressant,8,11.0,88.0,South,Digital Wallet,303
+TXN-1369,2023-11-01,Cetirizine 10mg,Antihistamine,4,4.5,18.0,North,Credit Card,275
+TXN-1295,2023-11-02,Fluoxetine 20mg,Antidepressant,3,13.5,40.5,East,Digital Wallet,338
+TXN-1058,2023-11-03,Paracetamol 500mg,Analgesic,8,2.5,20.0,Central,Credit Card,240
+TXN-1387,2023-11-05,Lisinopril 10mg,ACE Inhibitor,4,7.3,29.2,Central,Cash,98
+TXN-1305,2023-11-05,Azithromycin 500mg,Antibiotic,7,18.5,129.5,North,Digital Wallet,301
+TXN-1025,2023-11-06,Amlodipine 5mg,Calcium Channel Blocker,7,6.8,47.6,South,Insurance,471
+TXN-1416,2023-11-07,Azithromycin 500mg,Antibiotic,8,18.5,148.0,Central,Credit Card,498
+TXN-1379,2023-11-08,Losartan 50mg,Antihypertensive,10,9.4,94.0,South,Digital Wallet,324
+TXN-1278,2023-11-08,Omeprazole 20mg,Antacid,7,10.2,71.4,East,Credit Card,173
+TXN-1333,2023-11-11,Losartan 50mg,Antihypertensive,8,9.4,75.2,North,Cash,35
+TXN-1206,2023-11-12,Cetirizine 10mg,Antihistamine,3,4.5,13.5,West,Cash,225
+TXN-1341,2023-11-13,Azithromycin 500mg,Antibiotic,5,18.5,92.5,West,Credit Card,46
+TXN-1253,2023-11-14,Sertraline 50mg,Antidepressant,4,11.0,44.0,North,Digital Wallet,10
+TXN-1407,2023-11-14,Levothyroxine 100mcg,Hormone,5,7.9,39.5,West,Digital Wallet,261
+TXN-1487,2023-11-15,Omeprazole 20mg,Antacid,6,10.2,61.2,West,Credit Card,226
+TXN-1177,2023-11-16,Azithromycin 500mg,Antibiotic,6,18.5,111.0,West,Cash,435
+TXN-1093,2023-11-17,Losartan 50mg,Antihypertensive,8,9.4,75.2,West,Insurance,73
+TXN-1326,2023-11-17,Hydrochlorothiazide 25mg,Diuretic,2,4.2,8.4,South,Insurance,353
+TXN-1012,2023-11-18,Ibuprofen 400mg,Analgesic,4,5.75,23.0,Central,Cash,347
+TXN-1362,2023-11-18,Omeprazole 20mg,Antacid,1,10.2,10.2,West,Cash,364
+TXN-1260,2023-11-18,Levothyroxine 100mcg,Hormone,5,7.9,39.5,West,Cash,36
+TXN-1205,2023-11-19,Pantoprazole 40mg,Antacid,10,12.8,128.0,South,Insurance,295
+TXN-1222,2023-11-20,Atorvastatin 20mg,Statins,10,15.0,150.0,East,Credit Card,342
+TXN-1002,2023-11-21,Sertraline 50mg,Antidepressant,5,11.0,55.0,East,Cash,54
+TXN-1371,2023-11-22,Cetirizine 10mg,Antihistamine,6,4.5,27.0,Central,Digital Wallet,484
+TXN-1084,2023-11-22,Prednisone 10mg,Corticosteroid,4,6.0,24.0,East,Insurance,471
+TXN-1394,2023-11-23,Omeprazole 20mg,Antacid,8,10.2,81.6,East,Insurance,470
+TXN-1404,2023-11-24,Cetirizine 10mg,Antihistamine,5,4.5,22.5,Central,Digital Wallet,70
+TXN-1231,2023-11-26,Cetirizine 10mg,Antihistamine,7,4.5,31.5,South,Digital Wallet,175
+TXN-1308,2023-11-26,Hydrochlorothiazide 25mg,Diuretic,4,4.2,16.8,East,Cash,435
+TXN-1153,2023-11-26,Ibuprofen 400mg,Analgesic,5,5.75,28.75,North,Credit Card,76
+TXN-1408,2023-11-29,Amoxicillin 250mg,Antibiotic,1,12.0,12.0,North,Insurance,192
+TXN-1287,2023-11-30,Azithromycin 500mg,Antibiotic,5,18.5,92.5,North,Digital Wallet,342
+TXN-1170,2023-11-30,Furosemide 40mg,Diuretic,5,5.5,27.5,North,Cash,230
+TXN-1044,2023-12-02,Atorvastatin 20mg,Statins,5,15.0,75.0,Central,Credit Card,402
+TXN-1160,2023-12-02,Amlodipine 5mg,Calcium Channel Blocker,10,6.8,68.0,North,Cash,376
+TXN-1384,2023-12-04,Gabapentin 300mg,Anticonvulsant,9,14.2,127.8,South,Cash,197
+TXN-1095,2023-12-05,Atorvastatin 20mg,Statins,8,15.0,120.0,South,Insurance,478
+TXN-1196,2023-12-05,Amlodipine 5mg,Calcium Channel Blocker,8,6.8,54.4,North,Digital Wallet,457
+TXN-1399,2023-12-05,Cetirizine 10mg,Antihistamine,4,4.5,18.0,Central,Credit Card,361
+TXN-1450,2023-12-06,Amlodipine 5mg,Calcium Channel Blocker,7,6.8,47.6,South,Cash,160
+TXN-1276,2023-12-06,Omeprazole 20mg,Antacid,3,10.2,30.6,Central,Cash,383
+TXN-1233,2023-12-07,Levothyroxine 100mcg,Hormone,9,7.9,71.1,West,Cash,337
+TXN-1250,2023-12-08,Albuterol Inhaler,Bronchodilator,6,25.0,150.0,West,Insurance,357
+TXN-1232,2023-12-08,Hydrochlorothiazide 25mg,Diuretic,10,4.2,42.0,South,Cash,342
+TXN-1423,2023-12-08,Metformin 500mg,Antidiabetic,8,8.5,68.0,West,Credit Card,27
+TXN-1429,2023-12-11,Amlodipine 5mg,Calcium Channel Blocker,8,6.8,54.4,Central,Digital Wallet,475
+TXN-1057,2023-12-11,Lisinopril 10mg,ACE Inhibitor,3,7.3,21.9,North,Credit Card,365
+TXN-1350,2023-12-11,Omeprazole 20mg,Antacid,5,10.2,51.0,North,Insurance,192
+TXN-1358,2023-12-11,Fluoxetine 20mg,Antidepressant,1,13.5,13.5,Central,Credit Card,398
+TXN-1096,2023-12-14,Omeprazole 20mg,Antacid,6,10.2,61.2,East,Digital Wallet,167
+TXN-1281,2023-12-14,Lisinopril 10mg,ACE Inhibitor,7,7.3,51.1,Central,Cash,162
+TXN-1236,2023-12-15,Amlodipine 5mg,Calcium Channel Blocker,4,6.8,27.2,West,Digital Wallet,182
+TXN-1355,2023-12-15,Losartan 50mg,Antihypertensive,2,9.4,18.8,East,Insurance,481
+TXN-1199,2023-12-15,Metformin 500mg,Antidiabetic,9,8.5,76.5,East,Credit Card,435
+TXN-1282,2023-12-16,Albuterol Inhaler,Bronchodilator,5,25.0,125.0,North,Cash,488
+TXN-1340,2023-12-16,Atorvastatin 20mg,Statins,3,15.0,45.0,East,Cash,22
+TXN-1119,2023-12-17,Albuterol Inhaler,Bronchodilator,5,25.0,125.0,Central,Digital Wallet,259
+TXN-1336,2023-12-19,Pantoprazole 40mg,Antacid,8,12.8,102.4,West,Cash,130
+TXN-1247,2023-12-23,Lisinopril 10mg,ACE Inhibitor,9,7.3,65.7,North,Insurance,142
+TXN-1418,2023-12-25,Ibuprofen 400mg,Analgesic,3,5.75,17.25,North,Digital Wallet,454
+TXN-1019,2023-12-25,Amoxicillin 250mg,Antibiotic,3,12.0,36.0,Central,Insurance,216
+TXN-1280,2023-12-26,Levothyroxine 100mcg,Hormone,6,7.9,47.4,South,Digital Wallet,84
+TXN-1448,2023-12-26,Omeprazole 20mg,Antacid,6,10.2,61.2,East,Cash,387
+TXN-1050,2023-12-26,Omeprazole 20mg,Antacid,6,10.2,61.2,North,Digital Wallet,309
+TXN-1014,2023-12-26,Amoxicillin 250mg,Antibiotic,5,12.0,60.0,West,Insurance,439
+TXN-1397,2023-12-27,Furosemide 40mg,Diuretic,1,5.5,5.5,Central,Cash,407
+TXN-1477,2023-12-27,Atorvastatin 20mg,Statins,10,15.0,150.0,West,Cash,186
+TXN-1033,2023-12-28,Amoxicillin 250mg,Antibiotic,4,12.0,48.0,South,Insurance,444
+TXN-1195,2023-12-31,Omeprazole 20mg,Antacid,8,10.2,81.6,South,Insurance,396
+TXN-1307,2023-12-31,Levothyroxine 100mcg,Hormone,9,7.9,71.1,South,Insurance,159
+TXN-1103,2024-01-01,Prednisone 10mg,Corticosteroid,8,6.0,48.0,West,Digital Wallet,303
+TXN-1342,2024-01-02,Albuterol Inhaler,Bronchodilator,8,25.0,200.0,Central,Insurance,368
+TXN-1258,2024-01-02,Sertraline 50mg,Antidepressant,2,11.0,22.0,West,Cash,289
+TXN-1456,2024-01-03,Metformin 500mg,Antidiabetic,7,8.5,59.5,North,Cash,500
+TXN-1464,2024-01-03,Omeprazole 20mg,Antacid,8,10.2,81.6,South,Credit Card,290
+TXN-1292,2024-01-05,Atorvastatin 20mg,Statins,10,15.0,150.0,South,Insurance,419
+TXN-1435,2024-01-06,Albuterol Inhaler,Bronchodilator,4,25.0,100.0,North,Digital Wallet,228
+TXN-1322,2024-01-06,Metformin 500mg,Antidiabetic,1,8.5,8.5,North,Insurance,456
+TXN-1101,2024-01-07,Amoxicillin 250mg,Antibiotic,7,12.0,84.0,Central,Credit Card,402
+TXN-1497,2024-01-07,Albuterol Inhaler,Bronchodilator,10,25.0,250.0,South,Digital Wallet,445
+TXN-1470,2024-01-09,Fluoxetine 20mg,Antidepressant,9,13.5,121.5,Central,Digital Wallet,63
+TXN-1268,2024-01-09,Metformin 500mg,Antidiabetic,8,8.5,68.0,South,Digital Wallet,430
+TXN-1415,2024-01-10,Cetirizine 10mg,Antihistamine,4,4.5,18.0,West,Digital Wallet,226
+TXN-1171,2024-01-10,Levothyroxine 100mcg,Hormone,3,7.9,23.7,Central,Digital Wallet,266
+TXN-1460,2024-01-13,Omeprazole 20mg,Antacid,4,10.2,40.8,West,Credit Card,105
+TXN-1156,2024-01-13,Atorvastatin 20mg,Statins,5,15.0,75.0,South,Credit Card,172
+TXN-1270,2024-01-14,Fluoxetine 20mg,Antidepressant,5,13.5,67.5,East,Insurance,437
+TXN-1277,2024-01-15,Amoxicillin 250mg,Antibiotic,6,12.0,72.0,West,Credit Card,452
+TXN-1067,2024-01-15,Gabapentin 300mg,Anticonvulsant,8,14.2,113.6,South,Cash,153
+TXN-1211,2024-01-16,Furosemide 40mg,Diuretic,4,5.5,22.0,North,Credit Card,491
+TXN-1356,2024-01-16,Levothyroxine 100mcg,Hormone,6,7.9,47.4,Central,Digital Wallet,293
+TXN-1130,2024-01-16,Metformin 500mg,Antidiabetic,2,8.5,17.0,Central,Cash,359
+TXN-1312,2024-01-18,Pantoprazole 40mg,Antacid,6,12.8,76.8,West,Insurance,468
+TXN-1284,2024-01-18,Losartan 50mg,Antihypertensive,8,9.4,75.2,West,Cash,194
+TXN-1221,2024-01-19,Amlodipine 5mg,Calcium Channel Blocker,4,6.8,27.2,West,Digital Wallet,441
+TXN-1348,2024-01-20,Hydrochlorothiazide 25mg,Diuretic,10,4.2,42.0,North,Credit Card,491
+TXN-1495,2024-01-20,Metformin 500mg,Antidiabetic,3,8.5,25.5,North,Insurance,366
+TXN-1271,2024-01-21,Furosemide 40mg,Diuretic,1,5.5,5.5,North,Cash,403
+TXN-1471,2024-01-21,Cetirizine 10mg,Antihistamine,2,4.5,9.0,South,Insurance,359
+TXN-1240,2024-01-24,Cetirizine 10mg,Antihistamine,10,4.5,45.0,East,Credit Card,138
+TXN-1252,2024-01-24,Atorvastatin 20mg,Statins,1,15.0,15.0,South,Cash,401
+TXN-1150,2024-01-27,Hydrochlorothiazide 25mg,Diuretic,10,4.2,42.0,East,Insurance,310
+TXN-1431,2024-01-28,Hydrochlorothiazide 25mg,Diuretic,6,4.2,25.2,North,Insurance,379
+TXN-1434,2024-01-28,Gabapentin 300mg,Anticonvulsant,1,14.2,14.2,Central,Insurance,388
+TXN-1175,2024-01-29,Hydrochlorothiazide 25mg,Diuretic,7,4.2,29.4,East,Insurance,476
+TXN-1376,2024-01-31,Gabapentin 300mg,Anticonvulsant,5,14.2,71.0,North,Digital Wallet,169
+TXN-1368,2024-02-02,Cetirizine 10mg,Antihistamine,6,4.5,27.0,South,Cash,83
+TXN-1178,2024-02-02,Hydrochlorothiazide 25mg,Diuretic,6,4.2,25.2,South,Credit Card,240
+TXN-1133,2024-02-03,Ibuprofen 400mg,Analgesic,6,5.75,34.5,North,Insurance,241
+TXN-1028,2024-02-04,Pantoprazole 40mg,Antacid,5,12.8,64.0,East,Cash,68
+TXN-1482,2024-02-04,Omeprazole 20mg,Antacid,1,10.2,10.2,North,Cash,384
+TXN-1188,2024-02-05,Levothyroxine 100mcg,Hormone,8,7.9,63.2,North,Cash,61
+TXN-1008,2024-02-06,Amoxicillin 250mg,Antibiotic,4,12.0,48.0,East,Cash,107
+TXN-1068,2024-02-06,Amlodipine 5mg,Calcium Channel Blocker,8,6.8,54.4,South,Insurance,360
+TXN-1419,2024-02-07,Cetirizine 10mg,Antihistamine,10,4.5,45.0,East,Credit Card,253
+TXN-1462,2024-02-07,Lisinopril 10mg,ACE Inhibitor,8,7.3,58.4,East,Insurance,132
+TXN-1370,2024-02-08,Metformin 500mg,Antidiabetic,10,8.5,85.0,West,Cash,111
+TXN-1390,2024-02-10,Amlodipine 5mg,Calcium Channel Blocker,10,6.8,68.0,West,Insurance,457
+TXN-1207,2024-02-11,Lisinopril 10mg,ACE Inhibitor,6,7.3,43.8,South,Credit Card,106
+TXN-1064,2024-02-11,Azithromycin 500mg,Antibiotic,5,18.5,92.5,Central,Digital Wallet,260
+TXN-1078,2024-02-11,Prednisone 10mg,Corticosteroid,5,6.0,30.0,South,Insurance,220
+TXN-1297,2024-02-12,Paracetamol 500mg,Analgesic,5,2.5,12.5,East,Digital Wallet,500
+TXN-1323,2024-02-12,Losartan 50mg,Antihypertensive,7,9.4,65.8,South,Credit Card,278
+TXN-1126,2024-02-13,Paracetamol 500mg,Analgesic,3,2.5,7.5,West,Cash,439
+TXN-1306,2024-02-13,Paracetamol 500mg,Analgesic,9,2.5,22.5,Central,Credit Card,401
+TXN-1432,2024-02-13,Fluoxetine 20mg,Antidepressant,2,13.5,27.0,East,Insurance,414
+TXN-1266,2024-02-15,Losartan 50mg,Antihypertensive,1,9.4,9.4,North,Cash,477
+TXN-1085,2024-02-15,Amoxicillin 250mg,Antibiotic,6,12.0,72.0,North,Credit Card,93
+TXN-1391,2024-02-16,Fluoxetine 20mg,Antidepressant,2,13.5,27.0,Central,Cash,180
+TXN-1144,2024-02-18,Albuterol Inhaler,Bronchodilator,3,25.0,75.0,North,Credit Card,201
+TXN-1117,2024-02-21,Amlodipine 5mg,Calcium Channel Blocker,8,6.8,54.4,South,Digital Wallet,88
+TXN-1493,2024-02-23,Furosemide 40mg,Diuretic,6,5.5,33.0,West,Credit Card,191
+TXN-1275,2024-02-26,Prednisone 10mg,Corticosteroid,2,6.0,12.0,South,Cash,199
+TXN-1235,2024-02-27,Cetirizine 10mg,Antihistamine,7,4.5,31.5,South,Cash,174
+TXN-1135,2024-02-27,Fluoxetine 20mg,Antidepressant,10,13.5,135.0,Central,Credit Card,204
+TXN-1329,2024-02-28,Lisinopril 10mg,ACE Inhibitor,5,7.3,36.5,Central,Credit Card,468
+TXN-1473,2024-03-01,Amoxicillin 250mg,Antibiotic,4,12.0,48.0,East,Credit Card,70
+TXN-1263,2024-03-03,Cetirizine 10mg,Antihistamine,5,4.5,22.5,East,Insurance,434
+TXN-1296,2024-03-03,Levothyroxine 100mcg,Hormone,8,7.9,63.2,North,Insurance,423
+TXN-1359,2024-03-04,Prednisone 10mg,Corticosteroid,1,6.0,6.0,West,Cash,453
+TXN-1001,2024-03-05,Albuterol Inhaler,Bronchodilator,8,25.0,200.0,Central,Insurance,252
+TXN-1167,2024-03-06,Atorvastatin 20mg,Statins,5,15.0,75.0,North,Insurance,66
+TXN-1330,2024-03-07,Prednisone 10mg,Corticosteroid,10,6.0,60.0,North,Credit Card,256
+TXN-1163,2024-03-07,Levothyroxine 100mcg,Hormone,2,7.9,15.8,North,Credit Card,101
+TXN-1129,2024-03-08,Amlodipine 5mg,Calcium Channel Blocker,3,6.8,20.4,Central,Digital Wallet,422
+TXN-1457,2024-03-08,Gabapentin 300mg,Anticonvulsant,3,14.2,42.6,West,Credit Card,188
+TXN-1026,2024-03-08,Azithromycin 500mg,Antibiotic,5,18.5,92.5,South,Credit Card,301
+TXN-1114,2024-03-08,Cetirizine 10mg,Antihistamine,1,4.5,4.5,East,Insurance,52
+TXN-1319,2024-03-08,Hydrochlorothiazide 25mg,Diuretic,5,4.2,21.0,North,Credit Card,70
+TXN-1372,2024-03-09,Hydrochlorothiazide 25mg,Diuretic,1,4.2,4.2,South,Digital Wallet,472
+TXN-1331,2024-03-11,Atorvastatin 20mg,Statins,3,15.0,45.0,East,Digital Wallet,76
+TXN-1328,2024-03-12,Cetirizine 10mg,Antihistamine,10,4.5,45.0,South,Credit Card,62
+TXN-1088,2024-03-12,Sertraline 50mg,Antidepressant,6,11.0,66.0,South,Digital Wallet,470
+TXN-1123,2024-03-12,Ibuprofen 400mg,Analgesic,3,5.75,17.25,East,Insurance,162
+TXN-1061,2024-03-12,Omeprazole 20mg,Antacid,3,10.2,30.6,East,Credit Card,492
+TXN-1100,2024-03-14,Atorvastatin 20mg,Statins,3,15.0,45.0,East,Credit Card,405
+TXN-1499,2024-03-15,Lisinopril 10mg,ACE Inhibitor,5,7.3,36.5,South,Credit Card,25
+TXN-1109,2024-03-15,Sertraline 50mg,Antidepressant,1,11.0,11.0,South,Credit Card,469
+TXN-1200,2024-03-16,Lisinopril 10mg,ACE Inhibitor,7,7.3,51.1,North,Cash,347
+TXN-1417,2024-03-17,Pantoprazole 40mg,Antacid,3,12.8,38.4,South,Digital Wallet,198
+TXN-1029,2024-03-18,Hydrochlorothiazide 25mg,Diuretic,8,4.2,33.6,Central,Credit Card,427
+TXN-1180,2024-03-18,Hydrochlorothiazide 25mg,Diuretic,8,4.2,33.6,South,Digital Wallet,98
+TXN-1032,2024-03-19,Metformin 500mg,Antidiabetic,9,8.5,76.5,North,Digital Wallet,290
+TXN-1316,2024-03-21,Sertraline 50mg,Antidepressant,4,11.0,44.0,West,Credit Card,383
+TXN-1421,2024-03-21,Amoxicillin 250mg,Antibiotic,6,12.0,72.0,East,Insurance,223
+TXN-1072,2024-03-22,Amoxicillin 250mg,Antibiotic,8,12.0,96.0,West,Insurance,38
+TXN-1343,2024-03-24,Cetirizine 10mg,Antihistamine,7,4.5,31.5,East,Cash,281
+TXN-1049,2024-03-25,Pantoprazole 40mg,Antacid,1,12.8,12.8,Central,Credit Card,206
+TXN-1480,2024-03-25,Amlodipine 5mg,Calcium Channel Blocker,3,6.8,20.4,West,Insurance,93
+TXN-1241,2024-03-26,Furosemide 40mg,Diuretic,9,5.5,49.5,North,Insurance,66
+TXN-1081,2024-03-26,Azithromycin 500mg,Antibiotic,6,18.5,111.0,North,Digital Wallet,46
+TXN-1193,2024-03-26,Paracetamol 500mg,Analgesic,10,2.5,25.0,West,Credit Card,455

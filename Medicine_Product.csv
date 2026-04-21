@@ -1,0 +1,21 @@
+Medicine_Name,Category,Unit_Price,Total_Units_Sold,Total_Revenue,Number_of_Orders
+Albuterol Inhaler,Bronchodilator,25.0,202,5050.0,35
+Azithromycin 500mg,Antibiotic,18.5,134,2479.0,25
+Gabapentin 300mg,Anticonvulsant,14.2,137,1945.4,25
+Fluoxetine 20mg,Antidepressant,13.5,136,1836.0,24
+Amoxicillin 250mg,Antibiotic,12.0,146,1752.0,26
+Pantoprazole 40mg,Antacid,12.8,125,1600.0,22
+Losartan 50mg,Antihypertensive,9.4,155,1457.0,29
+Atorvastatin 20mg,Statins,15.0,95,1425.0,17
+Omeprazole 20mg,Antacid,10.2,137,1397.4,21
+Levothyroxine 100mcg,Hormone,7.9,172,1358.8,32
+Metformin 500mg,Antidiabetic,8.5,159,1351.5,28
+Sertraline 50mg,Antidepressant,11.0,114,1254.0,22
+Prednisone 10mg,Corticosteroid,6.0,177,1062.0,30
+Ibuprofen 400mg,Analgesic,5.75,157,902.75,25
+Furosemide 40mg,Diuretic,5.5,145,797.5,26
+Lisinopril 10mg,ACE Inhibitor,7.3,79,576.6999999999999,19
+Amlodipine 5mg,Calcium Channel Blocker,6.8,76,516.8,18
+Hydrochlorothiazide 25mg,Diuretic,4.2,115,483.0,23
+Cetirizine 10mg,Antihistamine,4.5,100,450.0,22
+Paracetamol 500mg,Analgesic,2.5,179,447.5,31
